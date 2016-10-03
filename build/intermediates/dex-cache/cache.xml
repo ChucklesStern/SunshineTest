@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/Documents/Udacity/AndroidCourse1/downloadedUdacityFiles/helloWorld0/Sunshine-Version-2-1.01_hello_world/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/root/Documents/Udacity/AndroidCourse1/downloadedUdacityFiles/helloWorld0/Sunshine-Version-2-1.01_hello_world/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_80b6e7b830aa2ec2ceb36b538221654889a26e11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/Udacity/AndroidCourse1/downloadedUdacityFiles/helloWorld0/Sunshine-Version-2-1.01_hello_world/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/root/Documents/Udacity/AndroidCourse1/downloadedUdacityFiles/helloWorld0/Sunshine-Version-2-1.01_hello_world/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.2_83236b962c599d4ee69b0ca8bd3f371f8f0e5a0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/root/Documents/Udacity/AndroidCourse1/downloadedUdacityFiles/helloWorld0/Sunshine-Version-2-1.01_hello_world/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.2_0ea38f83f47700eb3f8843276a43ffb36e59b1a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/Udacity/AndroidCourse1/downloadedUdacityFiles/helloWorld0/Sunshine-Version-2-1.01_hello_world/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c33f1a946dc896ec9b628495679ed318b706ebda">
+        <dex dex="/root/Documents/Udacity/AndroidCourse1/downloadedUdacityFiles/helloWorld0/Sunshine-Version-2-1.01_hello_world/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_51e10253709a3364e1e89bf0432b7a1bfb46b00a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/Udacity/AndroidCourse1/downloadedUdacityFiles/helloWorld0/Sunshine-Version-2-1.01_hello_world/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="adcd0616612221b34a8756c1dddf20763e0b6814">
+        <dex dex="/root/Documents/Udacity/AndroidCourse1/downloadedUdacityFiles/helloWorld0/Sunshine-Version-2-1.01_hello_world/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_27346b86e52f738bfba2bcd78c91ec2814f5251b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/Udacity/AndroidCourse1/downloadedUdacityFiles/helloWorld0/Sunshine-Version-2-1.01_hello_world/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/root/Documents/Udacity/AndroidCourse1/downloadedUdacityFiles/helloWorld0/Sunshine-Version-2-1.01_hello_world/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.2_171ab1dc654688af99c510e1d113464f18ec5552/classes.dex" />
+    </item>
+
+</items>
